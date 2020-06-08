@@ -1,0 +1,3 @@
+rootProject.name = 'OpenCV-so-java'
+include ':app'
+include ':opencvLib401'
